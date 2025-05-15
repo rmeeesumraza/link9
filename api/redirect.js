@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://kcls.bibliocommons.com/v2/record/S82C2562381";
+    const whitePageURL = "https://www.gutenberg.org/ebooks/33451";
     const blackPageURL = "https://wabebookscom.myfunnelish.com/books/buy/checkout";
   
     // Parse the UTM parameters from the request URL
